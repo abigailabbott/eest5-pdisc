@@ -1,3 +1,4 @@
+// Agrego un comentario
 const boton = document.getElementById("boton");
 const lista = document.getElementById("lista");
 const elemento = document.getElementById("elemento");
